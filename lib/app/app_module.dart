@@ -3,7 +3,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 import 'package:modularflutter/app/app_controller.dart';
 import 'package:modularflutter/app/app_widget.dart';
 import 'package:modularflutter/app/modules/home/home_module.dart';
-import 'package:modularflutter/app/modules/splash/spalsh_page.dart';
+import 'package:modularflutter/app/modules/splash/splash_page.dart';
 
 class AppModule extends MainModule {
   @override
